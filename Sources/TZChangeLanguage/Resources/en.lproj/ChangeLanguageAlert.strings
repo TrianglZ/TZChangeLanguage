@@ -1,0 +1,12 @@
+/* 
+  ChangeLanguageAlert.strings
+  ExxonMobil
+
+  Created by Samir on 02/04/2023.
+  
+*/
+
+"alert_title" = "Change your app language";
+"alert_message" = "Here's how: \n1. Go to your settings\n2. Pick your language\n3. Reopen your %@ app";
+"alert_cancel_button" = "Cancel";
+"alert_go_to_settings_button" = "Go to Settings";
