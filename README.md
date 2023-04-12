@@ -8,7 +8,7 @@
 You can install `TZChangeLanguage` using [Swift Package Manager (SPM)](https://swift.org/package-manager/):
 
 1.  In Xcode, go to **File > Swift Packages > Add Package Dependency**.
-2.  Enter the package repository URL: `https://bitbucket.org/trianglz/tzchangelanguage/src/master/`
+2.  Enter the package repository URL: `https://github.com/TrianglZ/TZChangeLanguage`
 3.  Follow the Xcode prompts to complete installation.
 
 ## Usage
